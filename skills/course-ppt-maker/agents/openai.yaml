@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程课件 PPT 制作"
+  short_description: "把讲稿做成一整套 AI 画的课件图片，再合成 PDF 和 PPTX。"
+  default_prompt: "使用 course-ppt-maker，把这份讲稿做成一套直播课件。"
